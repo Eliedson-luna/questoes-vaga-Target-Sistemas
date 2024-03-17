@@ -1,0 +1,18 @@
+1)
+	Ao final do processamento o valor da variável SOMA será 91.
+
+3)
+	a) 9
+	b) 128
+	c) 47
+	d) 100
+	e) 13
+	f) 20
+
+4)
+	Podemos deixar somente um interruptor desligado e verificar uma sala, caso a luz esteja acesa retornamos, mantemos o mesmo
+	interruptor desligado, assim sabemos que o primeiro interruptor nao afeta a primeira sala, depois desligamos o segundo interruptor 
+	e verificamos uma nova sala, caso esteja acesa o segundo interruptor nao esta conectado a ela verificamos se a lampada esta fria,
+	caso esteja ela esta conectada ao interruptor que estava desligado desde o inicio.
+	
+	
