@@ -1,16 +1,12 @@
-import java.util.ArrayList;
-import java.util.List;
-
-public class RevertString {
+public class MyStringFunctions {
     String stringToRevert;
-
     String revertedString = "";
     Character character;
-    RevertString(String stringToRevert) {
+    MyStringFunctions(String stringToRevert) {
         this.stringToRevert = stringToRevert;
     }
 
-    public void myRevertFunction() {
+    public void revertFunction() {
         int maxLength = stringToRevert.length()-1;
         int counter = 0;
         while (counter!=maxLength) {
